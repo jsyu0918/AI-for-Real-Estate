@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#f0f8ff"/>
+  <circle cx="150" cy="100" r="40" fill="#6495ed" stroke="#000" stroke-width="2"/>
+  <circle cx="150" cy="200" r="40" fill="#6495ed" stroke="#000" stroke-width="2"/>
+  <circle cx="150" cy="300" r="40" fill="#6495ed" stroke="#000" stroke-width="2"/>
+  <circle cx="300" cy="150" r="40" fill="#9370db" stroke="#000" stroke-width="2"/>
+  <circle cx="300" cy="250" r="40" fill="#9370db" stroke="#000" stroke-width="2"/>
+  <circle cx="450" cy="100" r="40" fill="#ff7f50" stroke="#000" stroke-width="2"/>
+  <circle cx="450" cy="200" r="40" fill="#ff7f50" stroke="#000" stroke-width="2"/>
+  <circle cx="450" cy="300" r="40" fill="#ff7f50" stroke="#000" stroke-width="2"/>
+  <line x1="190" y1="100" x2="260" y2="150" stroke="#000" stroke-width="2"/>
+  <line x1="190" y1="200" x2="260" y2="150" stroke="#000" stroke-width="2"/>
+  <line x1="190" y1="300" x2="260" y2="250" stroke="#000" stroke-width="2"/>
+  <line x1="190" y1="100" x2="260" y2="250" stroke="#000" stroke-width="2"/>
+  <line x1="190" y1="200" x2="260" y2="250" stroke="#000" stroke-width="2"/>
+  <line x1="340" y1="150" x2="410" y2="100" stroke="#000" stroke-width="2"/>
+  <line x1="340" y1="150" x2="410" y2="200" stroke="#000" stroke-width="2"/>
+  <line x1="340" y1="250" x2="410" y2="200" stroke="#000" stroke-width="2"/>
+  <line x1="340" y1="250" x2="410" y2="300" stroke="#000" stroke-width="2"/>
+  <text x="300" y="50" font-family="Arial" font-size="24" text-anchor="middle" font-weight="bold">텍스트 생성 모델 개념도</text>
+  <text x="150" y="380" font-family="Arial" font-size="18" text-anchor="middle">입력 레이어</text>
+  <text x="300" y="380" font-family="Arial" font-size="18" text-anchor="middle">히든 레이어</text>
+  <text x="450" y="380" font-family="Arial" font-size="18" text-anchor="middle">출력 레이어</text>
+</svg>
